@@ -1,0 +1,22 @@
+[+] Productor 2: insertó el elemento 201 en la posición 0
+[-] Consumidor 1: extrajo el elemento 201 de la posición 0
+[+] Productor 1: insertó el elemento 101 en la posición 1
+[-] Consumidor 2: extrajo el elemento 101 de la posición 1
+[+] Productor 2: insertó el elemento 202 en la posición 2
+[-] Consumidor 1: extrajo el elemento 202 de la posición 2
+[+] Productor 1: insertó el elemento 102 en la posición 3
+[+] Productor 2: insertó el elemento 203 en la posición 4
+[-] Consumidor 2: extrajo el elemento 102 de la posición 3
+[-] Consumidor 1: extrajo el elemento 203 de la posición 4
+[+] Productor 2: insertó el elemento 204 en la posición 0
+[-] Consumidor 2: extrajo el elemento 204 de la posición 0
+[+] Productor 2: insertó el elemento 205 en la posición 1
+[-] Consumidor 1: extrajo el elemento 205 de la posición 1
+[+] Productor 1: insertó el elemento 103 en la posición 2
+[+] Productor 1: insertó el elemento 104 en la posición 3
+[-] Consumidor 2: extrajo el elemento 103 de la posición 2
+[-] Consumidor 1: extrajo el elemento 104 de la posición 3
+[+] Productor 1: insertó el elemento 105 en la posición 4
+[-] Consumidor 2: extrajo el elemento 105 de la posición 4
+
+Simulación de productor-consumidor finalizada con éxito.
